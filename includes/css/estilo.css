@@ -1,0 +1,79 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2 de mar. de 2022, 22:45:53
+    Author     : BEMK
+*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap');
+.banner_principal{
+height: 100vh;
+background-size: cover;
+background-position:100% 80%;
+background-image: url("../imagens/banner_principal.webp");
+background-repeat: no-repeat;
+}
+@media only screen and (max-width: 768px){
+               .banner_principal{
+                 height: 100vh;
+background-size: cover;
+background-position:10% 20%;
+background-image: url("../imagens/fundo_mobile.webp");
+background-repeat: no-repeat;
+background-color: #f7f7f7;
+
+            }
+            }
+.titulo{
+   margin-top: 150px;
+   font-size: 60px;
+   color:#164259;
+   font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+}
+.introducao{
+ font-family: 'Poppins', sans-serif;
+ font-size: 18px;
+ font-weight: 400;
+ color:#164259;
+}
+@media only screen and (max-width: 768px){
+.titulo{
+      text-align: center;
+      font-size: 55px;
+      margin-bottom: 20px;
+}
+.introducao{
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+}
+}
+.destaque{
+    color:#F7AF24;
+}
+
+.botao_link{
+    border: 2px solid #F7AF24;
+    color: #164259;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-bottom: 5px;  
+}
+.botao_link:hover{
+    background-color: #164259;
+    color: #F7AF24;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    
+}
+@media only screen and (max-width: 768px){
+.botoes_contato_principal{
+    text-align: center;
+}
+}

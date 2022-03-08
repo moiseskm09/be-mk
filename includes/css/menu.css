@@ -1,0 +1,98 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2 de mar. de 2022, 21:37:15
+    Author     : BEMK
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap');
+
+.menu{
+                background-color: transparent;
+            }
+            
+             @media only screen and (max-width: 768px){
+               .navbar-collapse{
+                margin-top: 20px;
+                background-color: #ffffff;
+                border: 1px solid #ecc311;
+                border-radius: 15px;
+                padding: 10px;
+            }
+            }
+            .logo{
+                height: 60px;
+            }
+            .menu .navbar-nav > li >a{
+                color: #ffffff;
+                font-weight: bold;
+                font-size: 16px;
+                margin: 5px;
+                padding: 5px;
+            }
+            
+             @media only screen and (max-width: 768px){
+               .menu .navbar-nav > li >a{
+                color: #164259;
+                font-weight: bold;
+                font-size: 16px;
+                margin: 5px;
+                padding: 5px;
+            }
+            }
+            .sticky-top .navbar-nav > li >a{
+                color: #164259;
+            }
+            .sticky-top{
+                
+                background-color:#ffffff;
+                transition: 1s;
+                border-bottom: 3px solid #ecc311;
+                z-index: 10;
+            }
+            .sticky-top .logo{
+                height: 40px;
+                transition: 0.5s;
+            }
+            
+             @media only screen and (max-width: 768px){
+               .sticky-top .navbar-collapse{
+                margin-top: 20px;
+                background-color: #ffffff;
+                border: none;
+                border-radius: 15px;
+                padding: 10px;
+            }
+            }
+            .navbar-nav > li >a:hover{
+                color: #F7AF24;;
+                background-color: #164259;
+                border-radius: 20px;
+                transition: 0.3s;
+            }
+            @media only screen and (max-width: 768px){
+               .navbar-nav > li >a:hover{
+                color: #ecc311;;
+                background-color: transparent;
+                border-radius: 0px;
+                transition: 0s;
+            }
+            }
+            .icone_menu_mobile{
+                font-size: 30px;
+            }
+            .botao_menu_mobile{
+                background-color: #ffffff;
+                border: 2px solid #164259;
+            }
+            
+            .botao_menu_mobile:hover{
+                background-color: #ecc311;
+            }
+            .botao_menu_mobile:focus{
+                background-color: #ecc311;
+                border: 2px solid #164259;
+                outline: none;
+                box-shadow: none
+            }
