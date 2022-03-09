@@ -18,7 +18,6 @@
         </style>
     </head>
     <body>
-        <header>
         <nav class="navbar navbar-expand-lg menu fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
@@ -48,7 +47,6 @@
                 </div>
             </div>
         </nav>  
-        </header>
         <section class="banner_principal" id="inicio">
            <div class="container-fluid">
                <div class="row">
