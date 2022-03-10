@@ -17,7 +17,7 @@ background-repeat: no-repeat;
 }
 @media only screen and (max-width: 768px){
                .banner_principal{
-                 height: 100vh;
+                 height: 100%;
 background-size: cover;
 background-position:10% 20%;
 background-image: url("../imagens/fundo_mobile.webp");
@@ -38,6 +38,8 @@ background-color: #f7f7f7;
  font-size: 18px;
  font-weight: 400;
  color:#164259;
+ text-align: justify;
+  text-justify: inter-word;
 }
 @media only screen and (max-width: 768px){
 .titulo{
@@ -66,14 +68,147 @@ background-color: #f7f7f7;
 }
 .botao_link:hover{
     background-color: #164259;
-    color: #F7AF24;
+        color: #F7AF24;
     font-weight: 500;
     font-family: 'Rubik', sans-serif;
     font-size: 18px;
-    
 }
 @media only screen and (max-width: 768px){
 .botoes_contato_principal{
     text-align: center;
 }
 }
+
+.espacamento{
+    margin-top: 80px;  
+}
+
+.titulo_menu{
+    color: #F7AF24;
+    font-size: 90px;
+    opacity: 0.1;
+    font-family: 'Rubik', sans-serif;
+}
+
+.subtitulo_menu{
+    color: #164259;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    margin-top: -84px;
+    margin-left: 20px;
+}
+@media only screen and (max-width: 768px){
+.subtitulo_menu{
+    margin-left: 0px;
+    margin-left: 0px;
+    font-size: 16px;
+}
+}
+@media only screen and (max-width: 768px){
+.titulo_menu{
+    font-size: 50px;
+    
+}
+}
+.caixa-servico{
+    border: none;
+    background-color: #fcfcfc;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    color: #164259;
+}
+.caixa-servico:hover{
+    box-shadow: 0 0 10px 1px #F7AF24;
+    background-color: #ffffff;
+}
+.icone_servico{
+    color: #F7AF24;
+    font-size: 60px;
+}
+
+#sobre-nos{
+background-size: cover;
+background-image: url("../imagens/fundo_sobre.webp");
+background-repeat: no-repeat;
+}
+.card-sobrenos{
+    background-color: #fcfcfc;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #F7AF24;
+}
+@media only screen and (max-width: 768px){
+.card-sobrenos{
+    margin-bottom: 20px;
+}
+}
+.card-sobrenos:hover{
+    box-shadow: 0 0 10px 1px #F7AF24;
+    background-color: #ffffff;
+    border-bottom: 2px solid transparent;
+}
+.icone_sobrenos{
+                font-size: 80px;         
+               color:#F7AF24;
+            }
+            .titulo-card-sobrenos, .texto-card-sobrenos{
+                color: #164259;
+            }
+
+            .projeto{
+                background-color: #164259;
+            }
+            .t-padrao{
+                font-size: 35px;
+                color: #164259;
+                font-family: 'Rubik', sans-serif;
+            }
+            .texto{
+              font-size: 18px;  
+              font-weight: 500;
+            }
+            
+            .botao_link_projeto{
+                border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-bottom: 5px; 
+            }
+            
+            .botao_link_projeto:hover{
+    background-color: #164259;
+        color: #F7AF24;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    border: 2px solid #F7AF24;
+}
+
+.card-contato{
+    background-color: #fcfcfc;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #164259;
+}
+@media only screen and (max-width: 768px){
+.card-contato{
+    margin-bottom: 20px;
+}
+}
+.card-contato:hover{
+    box-shadow: 0 0 10px 1px #F7AF24;
+    background-color: #ffffff;
+    border-bottom: 2px solid transparent;
+}
+.icone_contato{
+                font-size: 50px;         
+               color:#F7AF24;
+            }
+            .titulo-card-sobrenos, .texto-card-sobrenos{
+                color: #164259;
+            }

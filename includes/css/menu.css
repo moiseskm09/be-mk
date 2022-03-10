@@ -21,11 +21,15 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
                 padding: 10px;
             }
             }
+            .fixed-top .logo{
+                transition: 0.5s;
+            }
+            
             .logo{
                 height: 60px;
             }
             .menu .navbar-nav > li >a{
-                color: #ffffff;
+                color: #164259;
                 font-weight: bold;
                 font-size: 16px;
                 margin: 5px;
@@ -96,3 +100,4 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
                 outline: none;
                 box-shadow: none
             }
+            
