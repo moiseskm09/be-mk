@@ -8,6 +8,17 @@
         <meta name="author" content="beMK- https://be-mk.com" />
         <meta name="keywords" content="sites, desenvolvimento de sites, criação de sites, empresas que criam sites, sites em sp, criar site em guarulhos, criar site em mairipora, mairipora,brasil, loja virtual, loja onile, logotipo, bemk, BEMK, bemk solucoes, bemk tecnologia" />
         <meta name="description" content="Temos como principais diferenciais a inovação, agilidade e a busca pela perfeição. Com soluções inteligentes, desenvolvidas de forma personalizada, agregamos valor no atendimento de cada cliente. A nossa equipe está focada em soluções e diferenciais para assegurar a vantagem competitiva dos nossos clientes. Além do excelente atendimento e relacionamento comercial, temos total transparência e ética nas nossas ações." />
+        <!--analitics -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9NRT3W2G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LC9NRT3W2G');
+</script>
+        <!-- analitics -->
         <!-- Bootstrap CSS -->
         <link href="includes/css/bootstrap5.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -16,9 +27,6 @@
         <link rel="stylesheet" href="includes/css/estilo.css">
         <title>beMK</title>
 
-        <style>
-
-        </style>
     </head>
     <body id="inicio">
         <nav class="navbar navbar-expand-lg menu fixed-top">
