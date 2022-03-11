@@ -257,7 +257,7 @@
                 </div>
                 <div class="row mt-3">
                     <div class="col-lg-4 col-md-4 col-12 text-center">
-                        <img src="includes/imagens/impulsionar.webp" width="width" height="250" alt="impulsionar"/>
+                        <img src="includes/imagens/impulsionar.webp" width="100%" height="250" alt="impulsionar"/>
                     </div>
                     <div class="col-lg-8 col-md-8 col-12 text-center">
                         <h2 class="t-padrao mt-3 mb-3">Só aqui você encontra um pacote completo de soluções digitais para impulsionar o seu negócio.</h2>  
@@ -289,6 +289,99 @@
                         </blockquote>
 
                     </div>
+                    <div class="row mt-5">
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <p class="icone_portfolio text-center p-0">
+                                            <img src="includes/imagens/portfolio/aeroclube.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <br>
+                                        <h5 class="mt-2 titulo-card-portfolio">AEROCLUBE DE DOURADOS</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <p class="icone_portfolio text-center p-0">
+                                            <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <br>
+                                        <h5 class="mt-2 titulo-card-portfolio">SILAS FEITOSA</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <p class="icone_portfolio text-center p-0">
+                                            <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <br>
+                                        <h5 class="mt-2 titulo-card-portfolio">AGRÍCOLA LUCAS</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <p class="icone_portfolio text-center p-0">
+                                            <img src="includes/imagens/portfolio/qualita.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <br>
+                                        <h5 class="mt-2 titulo-card-portfolio">QUALITA ENGENHARIA</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <p class="icone_portfolio text-center p-0">
+                                            <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <br>
+                                        <h5 class="mt-2 titulo-card-portfolio">E&L LOCAÇÕES</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        
+                    </div>
                 </div>
                 <div>
 
@@ -306,9 +399,9 @@
                                 </div>
                             </div>
                             <div class="row mt-5">
-                                <div class="col-md-12 col-lg-12 col-12">
+                                <div class="col-md-4 col-lg-4 col-12">
                                     <div class="row">
-                                        <div class="col-md-4 col-lg-4 col-12">
+                                        <div class="col-md-12 col-lg-12 col-12">
                                             <div class="card card-contato">
                                                 <div class="card-body p-0">
                                                     <div class="row">
@@ -325,7 +418,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-4 col-lg-4 col-12">
+                                        <div class="col-md-12 col-lg-12 col-12">
                                             <div class="card card-contato">
                                                 <div class="card-body p-0">
                                                     <div class="row">
@@ -343,7 +436,7 @@
                                             </div>
                                         </div>
 
-                                        <div class="col-md-4 col-lg-4 col-12">
+                                        <div class="col-md-12 col-lg-12 col-12">
                                             <div class="card card-contato">
                                                 <div class="card-body p-0">
                                                     <div class="row">
@@ -362,11 +455,70 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-md-8 col-lg-8 col-12">
+                                    <div class="row">
+                                        <div class="col-md-6 col-12">
+                                            <div class="form-floating mb-3">
+                                                <input type="text" class="form-control nome" id="nome" placeholder="Seu Nome" minlength="3" maxlength="30" required>
+                                                <label for="nome">Seu Nome</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-12">
+                                            <div class="form-floating mb-3">
+                                                <input type="email" class="form-control email" id="email" placeholder="Seu E-mail" maxlength="30" required>
+                                                <label for="email">Seu E-mail</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-12">
+                                            <div class="form-floating mb-3">
+                                                <input type="tel" class="form-control telefone" id="telefone" placeholder="Seu Telefone" maxlength="15" required>
+                                                <label for="telefone">Seu Telefone</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-12">
+                                            <div class="form-floating mb-3">
+                                                <select class="form-select assunto" id="assunto" aria-label="Assunto" required>
+    <option selected>Selecione uma opção</option>
+    <option value="Site Institucional">Site Institucional</option>
+    <option value="Loja Virtual">Loja Virtual</option>
+    <option value="Logotipo">Logotipo</option>
+    <option value="Hospedagem">Hospedagem</option>
+    <option value="Customização">Customização</option>
+    <option value="SEO">SEO</option>
+    <option value="Outros">Outros</option>
+  </select>
+  <label for="assunto">Assunto</label>
+</div>
+                                        </div>
+                                        <div class="col-12">
+                                         <div class="form-floating mb-3">
+  <textarea class="form-control mensagem" placeholder="Mensagem" id="mensagem" style="height: 200px"></textarea>
+  <label for="mensagem">Mensagem</label>
+</div>   
+                                        </div>
+                                        <div class="col-12">
+                                         <div class="botoes_contato_principal">
+                            <button class="btn btn-lg botao_link form-control" type="submit">ENVIAR</button>
+                            
+                        </div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
                     </section>
                     <!-- contato -->
+                    
+                    <footer class="bg-light text-center text-lg-start espacamento">
+  <!-- Copyright -->
+  <div class="text-center p-3" >
+      © <?php echo date("Y");?> Copyright:
+    <a class="text-dark fw-bold" href="https://be-mk.com/">beMK</a>
+  </div>
+  <!-- Copyright -->
+</footer>
                     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
                     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
                     <script>
@@ -380,5 +532,18 @@
                             }
                         });
                     </script>
+                    <script>
+                        const tel = document.getElementById('telefone') // Seletor do campo de telefone
+
+tel.addEventListener('keypress', (e) => mascaraTelefone(e.target.value)) // Dispara quando digitado no campo
+tel.addEventListener('change', (e) => mascaraTelefone(e.target.value)) // Dispara quando autocompletado o campo
+
+const mascaraTelefone = (valor) => {
+    valor = valor.replace(/\D/g, "")
+    valor = valor.replace(/^(\d{2})(\d)/g, "($1) $2")
+    valor = valor.replace(/(\d)(\d{4})$/, "$1-$2")
+    tel.value = valor // Insere o(s) valor(es) no campo
+}
+                        </script>
                     </body>
                     </html>

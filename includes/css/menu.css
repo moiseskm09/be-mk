@@ -27,6 +27,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
             
             .logo{
                 height: 60px;
+                width: 100%;
             }
             .menu .navbar-nav > li >a{
                 color: #164259;
@@ -57,6 +58,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
             }
             .sticky-top .logo{
                 height: 40px;
+                width: 100%;
                 transition: 0.5s;
             }
             
