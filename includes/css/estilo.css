@@ -260,3 +260,10 @@ background-repeat: no-repeat;
         transition: 2s;
         max-width: 100%;
             }
+            
+.input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-top: 40px;
+    position: absolute;
+    border-radius: 15px;
+    margin-left: 5px;
+}

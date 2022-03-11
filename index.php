@@ -4,7 +4,10 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <link rel="shortcut icon" href="includes/imagens/logo_beMK.webp" type="image/x-icon">
+        <meta name="author" content="beMK- https://be-mk.com" />
+        <meta name="keywords" content="sites, desenvolvimento de sites, criação de sites, empresas que criam sites, sites em sp, criar site em guarulhos, criar site em mairipora, mairipora,brasil, loja virtual, loja onile, logotipo, bemk, BEMK, bemk solucoes, bemk tecnologia" />
+        <meta name="description" content="Temos como principais diferenciais a inovação, agilidade e a busca pela perfeição. Com soluções inteligentes, desenvolvidas de forma personalizada, agregamos valor no atendimento de cada cliente. A nossa equipe está focada em soluções e diferenciais para assegurar a vantagem competitiva dos nossos clientes. Além do excelente atendimento e relacionamento comercial, temos total transparência e ética nas nossas ações." />
         <!-- Bootstrap CSS -->
         <link href="includes/css/bootstrap5.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -20,7 +23,7 @@
     <body id="inicio">
         <nav class="navbar navbar-expand-lg menu fixed-top">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="https://be-mk.com">
                     <img src="includes/imagens/logo_beMK.webp" alt="Logo beMK" class="logo">
                 </a>
                 <button class="navbar-toggler botao_menu_mobile" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -292,95 +295,95 @@
                     <div class="row mt-5">
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
-                            <div class="card-body p-0">
-                                <div class="row">
-                                    <div class="col-12 text-center">
-                                        <p class="icone_portfolio text-center p-0">
-                                            <img src="includes/imagens/portfolio/aeroclube.webp" width="100%" height="200" alt="cliente aeroclube"/>
-                                        </p>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <br>
-                                        <h5 class="mt-2 titulo-card-portfolio">AEROCLUBE DE DOURADOS</h5>
-                                        
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/aeroclube.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">AEROCLUBE DE DOURADOS</h5>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
-                            <div class="card-body p-0">
-                                <div class="row">
-                                    <div class="col-12 text-center">
-                                        <p class="icone_portfolio text-center p-0">
-                                            <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente aeroclube"/>
-                                        </p>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <br>
-                                        <h5 class="mt-2 titulo-card-portfolio">SILAS FEITOSA</h5>
-                                        
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">SILAS FEITOSA</h5>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
-                            <div class="card-body p-0">
-                                <div class="row">
-                                    <div class="col-12 text-center">
-                                        <p class="icone_portfolio text-center p-0">
-                                            <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente aeroclube"/>
-                                        </p>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <br>
-                                        <h5 class="mt-2 titulo-card-portfolio">AGRÍCOLA LUCAS</h5>
-                                        
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">AGRÍCOLA LUCAS</h5>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
-                            <div class="card-body p-0">
-                                <div class="row">
-                                    <div class="col-12 text-center">
-                                        <p class="icone_portfolio text-center p-0">
-                                            <img src="includes/imagens/portfolio/qualita.webp" width="100%" height="200" alt="cliente aeroclube"/>
-                                        </p>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <br>
-                                        <h5 class="mt-2 titulo-card-portfolio">QUALITA ENGENHARIA</h5>
-                                        
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/qualita.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">QUALITA ENGENHARIA</h5>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
-                            <div class="card-body p-0">
-                                <div class="row">
-                                    <div class="col-12 text-center">
-                                        <p class="icone_portfolio text-center p-0">
-                                            <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente aeroclube"/>
-                                        </p>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <br>
-                                        <h5 class="mt-2 titulo-card-portfolio">E&L LOCAÇÕES</h5>
-                                        
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">E&L LOCAÇÕES</h5>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        </div>
-                        
+
                     </div>
                 </div>
                 <div>
@@ -457,52 +460,44 @@
                                 </div>
                                 <div class="col-md-8 col-lg-8 col-12">
                                     <div class="row">
-                                        <div class="col-md-6 col-12">
-                                            <div class="form-floating mb-3">
-                                                <input type="text" class="form-control nome" id="nome" placeholder="Seu Nome" minlength="3" maxlength="30" required>
-                                                <label for="nome">Seu Nome</label>
+                                        <form class="find-tutor-form row" action="envia_email.php" method="post" id="contactForm" novalidate="novalidate">
+
+                                            <div class="col-md-6 col-12">
+                                                <div class="input-group mb-4">
+                                                    <input type="text" class="form-control nome" name="nome" id="nome" placeholder="Seu Nome" minlength="3" maxlength="30" required autocomplete="off">
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="col-md-6 col-12">
-                                            <div class="form-floating mb-3">
-                                                <input type="email" class="form-control email" id="email" placeholder="Seu E-mail" maxlength="30" required>
-                                                <label for="email">Seu E-mail</label>
+                                            <div class="col-md-6 col-12">
+                                                <div class="input-group mb-4">
+                                                    <input type="email" class="form-control email" name="email" id="email" placeholder="Seu E-mail" maxlength="30" required autocomplete="off">
+                                                </div>
+
                                             </div>
-                                        </div>
-                                        <div class="col-md-6 col-12">
-                                            <div class="form-floating mb-3">
-                                                <input type="tel" class="form-control telefone" id="telefone" placeholder="Seu Telefone" maxlength="15" required>
-                                                <label for="telefone">Seu Telefone</label>
+                                            <div class="col-md-6 col-12">
+                                                <div class="input-group mb-4">
+                                                    <input type="tel" class="form-control telefone" name="telefone" id="telefone" placeholder="Seu Telefone" maxlength="15" required autocomplete="off">
+                                                </div> 
                                             </div>
-                                        </div>
-                                        <div class="col-md-6 col-12">
-                                            <div class="form-floating mb-3">
-                                                <select class="form-select assunto" id="assunto" aria-label="Assunto" required>
-    <option selected>Selecione uma opção</option>
-    <option value="Site Institucional">Site Institucional</option>
-    <option value="Loja Virtual">Loja Virtual</option>
-    <option value="Logotipo">Logotipo</option>
-    <option value="Hospedagem">Hospedagem</option>
-    <option value="Customização">Customização</option>
-    <option value="SEO">SEO</option>
-    <option value="Outros">Outros</option>
-  </select>
-  <label for="assunto">Assunto</label>
-</div>
-                                        </div>
-                                        <div class="col-12">
-                                         <div class="form-floating mb-3">
-  <textarea class="form-control mensagem" placeholder="Mensagem" id="mensagem" style="height: 200px"></textarea>
-  <label for="mensagem">Mensagem</label>
-</div>   
-                                        </div>
-                                        <div class="col-12">
-                                         <div class="botoes_contato_principal">
-                            <button class="btn btn-lg botao_link form-control" type="submit">ENVIAR</button>
-                            
-                        </div>
-                                        </div>
-                                        
+                                            <div class="col-md-6 col-12">
+                                                <div class="input-group mb-4">
+                                                    <input type="tel" class="form-control assunto" name="assunto" id="assunto" placeholder="Assunto" maxlength="20" required autocomplete="off">     
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="input-group mb-3">
+                                                    <textarea class="form-control mensagem" placeholder="Mensagem" name="mensagem" id="mensagem" style="height: 200px"></textarea>
+
+                                                </div>   
+                                                <input type="text" name="robos" id="robos" style="display: none;
+                                                       ">
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="botoes_contato_principal">
+                                                    <button class="btn btn-lg botao_link form-control" type="submit">ENVIAR</button>
+
+                                                </div>
+                                            </div>
+                                        </form>
                                     </div>
                                 </div>
                             </div>
@@ -510,17 +505,42 @@
 
                     </section>
                     <!-- contato -->
-                    
+
                     <footer class="bg-light text-center text-lg-start espacamento">
-  <!-- Copyright -->
-  <div class="text-center p-3" >
-      © <?php echo date("Y");?> Copyright:
-    <a class="text-dark fw-bold" href="https://be-mk.com/">beMK</a>
-  </div>
-  <!-- Copyright -->
-</footer>
-                    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-                    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+                        <!-- Copyright -->
+                        <div class="text-center p-3" >
+                            © <?php echo date("Y"); ?> Copyright:
+                            <a class="text-dark fw-bold" href="https://be-mk.com/">beMK</a>
+                        </div>
+                        <!-- Copyright -->
+                    </footer>
+
+
+                    <!-- modal contato -->
+                    <div class="modal" tabindex="-1" role="dialog" id="success">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body alert-success">
+                                    <h5 class="modal-title">Deu tudo certo! Agora é só aguardar!</h5>
+                                    <a href="https://be-mk.com" class="btn btn-success mt-1" data-dismiss="modal">Fechar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="modal" tabindex="-1" role="dialog" id="error">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body alert-danger">
+                                    <h5 class="modal-title">Hummm, alguma coisa de errado! Por favor, tente novamente.</h5>
+                                    <a href="https://be-mk.com/#contato" class="btn btn-danger mt-1" data-dismiss="modal">Fechar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- modal contato -->
+                    <script src="includes/js/popper.min.js"></script>
+                    <script src="includes/js/bootstrap.min.js"></script>
                     <script>
                         $(window).scroll(function () {
                             var scroll = $(window).scrollTop();
@@ -535,15 +555,20 @@
                     <script>
                         const tel = document.getElementById('telefone') // Seletor do campo de telefone
 
-tel.addEventListener('keypress', (e) => mascaraTelefone(e.target.value)) // Dispara quando digitado no campo
-tel.addEventListener('change', (e) => mascaraTelefone(e.target.value)) // Dispara quando autocompletado o campo
+                        tel.addEventListener('keypress', (e) => mascaraTelefone(e.target.value)) // Dispara quando digitado no campo
+                        tel.addEventListener('change', (e) => mascaraTelefone(e.target.value)) // Dispara quando autocompletado o campo
 
-const mascaraTelefone = (valor) => {
-    valor = valor.replace(/\D/g, "")
-    valor = valor.replace(/^(\d{2})(\d)/g, "($1) $2")
-    valor = valor.replace(/(\d)(\d{4})$/, "$1-$2")
-    tel.value = valor // Insere o(s) valor(es) no campo
-}
-                        </script>
+                        const mascaraTelefone = (valor) => {
+                            valor = valor.replace(/\D/g, "")
+                            valor = valor.replace(/^(\d{2})(\d)/g, "($1) $2")
+                            valor = valor.replace(/(\d)(\d{4})$/, "$1-$2")
+                            tel.value = valor // Insere o(s) valor(es) no campo
+                        }
+                    </script>
+
+                    
+                    <script src="includes/js/contato.js"></script>
+                    <script src="includes/js/jquery.form.js"></script>
+                    <script src="includes/js/jquery.validate.min.js"></script>
                     </body>
                     </html>
