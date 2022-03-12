@@ -524,7 +524,7 @@
                         <!-- Copyright -->
                         <div class="text-center p-3" >
                             © <?php echo date("Y"); ?> Copyright:
-                            <a class="text-dark fw-bold" href="https://be-mk.com/">beMK</a>
+                            <a class="fw-bold" href="https://be-mk.com/" style="text-decoration: none; color:#164259">be<span style="color:#F7AF24">M</span>K</a>
                         </div>
                         <!-- Copyright -->
                     </footer>
