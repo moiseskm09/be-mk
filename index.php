@@ -9,6 +9,8 @@
         <meta name="keywords" content="sites, desenvolvimento de sites, criação de sites, empresas que criam sites, sites em sp, criar site em guarulhos, criar site em mairipora, mairipora,brasil, loja virtual, loja onile, logotipo, bemk, BEMK, bemk solucoes, bemk tecnologia" />
         <meta name="description" content="Temos como principais diferenciais a inovação, agilidade e a busca pela perfeição. Com soluções inteligentes, desenvolvidas de forma personalizada, agregamos valor no atendimento de cada cliente. A nossa equipe está focada em soluções e diferenciais para assegurar a vantagem competitiva dos nossos clientes. Além do excelente atendimento e relacionamento comercial, temos total transparência e ética nas nossas ações." />
         <!--analitics -->
+        <meta name="adopt-website-id" content="1e01e3c5-50ac-4a16-8b3d-c81a85bd4e43" />
+          <script src="//tag.goadopt.io/injector.js?website_code=1e01e3c5-50ac-4a16-8b3d-c81a85bd4e43" class="adopt-injector"></script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9NRT3W2G"></script>
 <script>
@@ -53,6 +55,10 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#contato" tabindex="-1" aria-disabled="true">CONTATO</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-success text-white d-none d-sm-block" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." role="button" style="border-radius:10px;"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+                            <a class="nav-link btn btn-outline-success text-success d-block d-sm-none" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." role="button" style="border-radius:10px;"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                         </li>
                     </ul>
                 </div>
@@ -488,7 +494,7 @@
                                             </div>
                                             <div class="col-md-6 col-12">
                                                 <div class="input-group mb-4">
-                                                    <input type="tel" class="form-control assunto" name="assunto" id="assunto" placeholder="Assunto" maxlength="20" required autocomplete="off">     
+                                                    <input type="text" class="form-control assunto" name="assunto" id="assunto" placeholder="Assunto" maxlength="20" required autocomplete="off">     
                                                 </div>
                                             </div>
                                             <div class="col-12">
@@ -496,8 +502,7 @@
                                                     <textarea class="form-control mensagem" placeholder="Mensagem" name="mensagem" id="mensagem" style="height: 200px"></textarea>
 
                                                 </div>   
-                                                <input type="text" name="robos" id="robos" style="display: none;
-                                                       ">
+                                                <input type="text" name="robos" id="robos" style="display: none;">
                                             </div>
                                             <div class="col-12">
                                                 <div class="botoes_contato_principal">
@@ -578,5 +583,8 @@
                     <script src="includes/js/contato.js"></script>
                     <script src="includes/js/jquery.form.js"></script>
                     <script src="includes/js/jquery.validate.min.js"></script>
+                    <script>$(".nav-link").on("click", function(){
+   $('.navbar-collapse').collapse('hide');
+});</script>
                     </body>
                     </html>

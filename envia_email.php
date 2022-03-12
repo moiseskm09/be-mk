@@ -22,15 +22,15 @@ if (!empty($robo)) {
 
     $mail = new PHPMailer();
     $mail->IsSMTP();
-    $mail->Host = 'smtp.titan.email';                     //Configura o servidor SMTP para enviar através de 
+    $mail->Host = 'smtp.gmail.com';                     //Configura o servidor SMTP para enviar através de 
     $mail->Port = 587; 
     $mail->SMTPAuth = true;                                   //Ativar autenticação SMTP 
-    $mail->Username = 'site@be-mk.com';                     //Nome de usuário SMTP 
+    $mail->Username = 'bemktech1217@gmail.com';                     //Nome de usuário SMTP 
     $mail->Password = 'bemk@1217';
     $mail->SMTPOptions = array('ssl' => array('verify_peer' => false, 'verify_peer_name' => false, 'allow_self_signed' => true));
-   //$mail->SMTPDebug = 2;
-    $mail->setFrom('site@be-mk.com', 'Site beMK');
-    $mail->AddAddress('contato@be-mk.com', 'Contato beMK');
+    $mail->SMTPDebug = 2;
+    $mail->setFrom('bemktech1217@gmail.com', 'Site beMK');
+    $mail->AddAddress('bemktech1217@gmail.com', 'Contato beMK');
     $mail->IsHTML(true);
     $mail->CharSet = 'UTF-8';
     $mail->Subject = 'Novo contato atráves do site -' . $assunto;
