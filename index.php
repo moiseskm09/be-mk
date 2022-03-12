@@ -4,7 +4,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="includes/imagens/logo_beMK.webp" type="image/x-icon">
+        <link rel="shortcut icon" href="includes/imagens/favicon.webp" type="image/x-icon">
         <meta name="author" content="beMK- https://be-mk.com" />
         <meta name="keywords" content="sites, desenvolvimento de sites, criação de sites, empresas que criam sites, sites em sp, criar site em guarulhos, criar site em mairipora, mairipora,brasil, loja virtual, loja onile, logotipo, bemk, BEMK, bemk solucoes, bemk tecnologia" />
         <meta name="description" content="Temos como principais diferenciais a inovação, agilidade e a busca pela perfeição. Com soluções inteligentes, desenvolvidas de forma personalizada, agregamos valor no atendimento de cada cliente. A nossa equipe está focada em soluções e diferenciais para assegurar a vantagem competitiva dos nossos clientes. Além do excelente atendimento e relacionamento comercial, temos total transparência e ética nas nossas ações." />
@@ -401,7 +401,6 @@
                     </div>
                 </div>
                 <div>
-
                     </section>
                     <!-- portfólio -->
                     <!-- contato -->
@@ -429,7 +428,9 @@
                                                         </div>
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">Telefone</h5>
-                                                            <p class="texto-card-contato">(11) 9 6303-3778<br>(11) 9 6178-4667</p>
+                                                            <p class="texto-card-contato">
+                                                                <a class="text-dark" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." style="text-decoration: none;"><i class="fa-brands fa-whatsapp text-success"></i> (11) 9 6303-3778</a>
+                                                                <br><a class="text-dark" href="tel:11963033778" style="text-decoration: none;">(11) 9 7585-8766</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -446,7 +447,7 @@
                                                         </div>
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">E-mail</h5>
-                                                            <p class="texto-card-contato">contato@be-mk.com<br>moises@be-mk.com</p>
+                                                            <p class="texto-card-contato"><a class="text-dark" href="mailto:contato@be-mk.com" style="text-decoration: none;">contato@be-mk.com</a><br><a class="text-dark" href="mailto:moises@be-mk.com" style="text-decoration: none;">moises@be-mk.com</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
