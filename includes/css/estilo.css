@@ -267,3 +267,20 @@ background-repeat: no-repeat;
     border-radius: 15px;
     margin-left: 5px;
 }
+.texto-card-contato a{
+    color: #164259;
+    font-size: 18px;
+}
+.texto-card-contato a:hover{
+    color: #F7AF24;
+    font-size: 18px;
+}
+.redesocial{
+    font-size: 40px;
+    text-decoration: none;
+    padding: 5px;
+    color: #164259;
+}
+.redesocial:hover{
+    color: #F7AF24;
+}

@@ -26,7 +26,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
         <script src="includes/js/jquery.js"></script>
         <link rel="stylesheet" href="includes/css/menu.css">
-        <link rel="stylesheet" href="includes/css/estilo.css">
+        <link rel="stylesheet" href="includes/css/estilo.min.css">
         <title>beMK</title>
 
     </head>
@@ -367,12 +367,30 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/qualita.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/pinkshaircosmeticos.webp" width="100%" height="200" alt="cliente aeroclube"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
                                             <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">QUALITA ENGENHARIA</h5>
+                                            <h5 class="mt-2 titulo-card-portfolio">PINK'S HAIR COSMÉTICOS</h5>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-12">
+                            <div class="card card-portfolio">
+                                <div class="card-body p-0">
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <p class="icone_portfolio text-center p-0">
+                                                <img src="includes/imagens/portfolio/jcnewhome.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                            </p>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <br>
+                                            <h5 class="mt-2 titulo-card-portfolio">JC NEW HOME</h5>
 
                                         </div>
                                     </div>
@@ -397,7 +415,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
                 <div>
@@ -429,8 +446,8 @@
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">Telefone</h5>
                                                             <p class="texto-card-contato">
-                                                                <a class="text-dark" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." style="text-decoration: none;"><i class="fa-brands fa-whatsapp text-success"></i> (11) 9 6303-3778</a>
-                                                                <br><a class="text-dark" href="tel:11963033778" style="text-decoration: none;">(11) 9 7585-8766</a></p>
+                                                                <a target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." style="text-decoration: none;"><i class="fa-brands fa-whatsapp text-success"></i> (11) 9 6303-3778</a>
+                                                                <br><a href="tel:11963033778" style="text-decoration: none;">(11) 9 7585-8766</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -447,7 +464,7 @@
                                                         </div>
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">E-mail</h5>
-                                                            <p class="texto-card-contato"><a class="text-dark" href="mailto:contato@be-mk.com" style="text-decoration: none;">contato@be-mk.com</a><br><a class="text-dark" href="mailto:moises@be-mk.com" style="text-decoration: none;">moises@be-mk.com</a></p>
+                                                            <p class="texto-card-contato"><a href="mailto:contato@be-mk.com" style="text-decoration: none;">contato@be-mk.com</a><br><a href="mailto:moises@be-mk.com" style="text-decoration: none;">moises@be-mk.com</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -465,7 +482,7 @@
                                                         </div>
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">Funcionamento</h5>
-                                                            <p class="texto-card-contato">Segunda à Sexta<br>08:00 às 18:00</p>
+                                                            <p class="texto-card-contato"><a>Segunda à Sexta<br>08:00 às 18:00</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -522,11 +539,17 @@
 
                     <footer class="bg-light text-center text-lg-start espacamento">
                         <!-- Copyright -->
-                        <div class="text-center p-3" >
-                            © <?php echo date("Y"); ?> Copyright:
-                            <a class="fw-bold" href="https://be-mk.com/" style="text-decoration: none; color:#164259">be<span style="color:#F7AF24">M</span>K</a>
+                        <div class="text-center">
+                            <h6>Redes Sociais</h6>
+                            <a class="redesocial" target="_blanc" href="https://www.facebook.com/beMKoficial"><i class="fa-brands fa-facebook"></i></a>
+                            <a class="redesocial" target="_blanc" href="https://www.instagram.com/bemksolucoes/"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="redesocial" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..."><i class="fa-brands fa-whatsapp"></i></a>
                         </div>
                         <!-- Copyright -->
+                        <div class="text-center p-1" >
+                            © <?php echo date("Y"); ?> - 
+                            <a class="fw-bold" href="https://be-mk.com/" style="text-decoration: none; color:#164259">be<span style="color:#F7AF24">M</span>K</a>
+                        </div>
                     </footer>
 
 
