@@ -331,7 +331,7 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente silas feitosa"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
@@ -349,7 +349,7 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente agricola lucas"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
@@ -367,7 +367,7 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/pinkshaircosmeticos.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/pinkshaircosmeticos.webp" width="100%" height="200" alt="cliente pinks hair cosmeticos"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
@@ -385,7 +385,7 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/jcnewhome.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/jcnewhome.webp" width="100%" height="200" alt="cliente jc new home"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
@@ -403,7 +403,7 @@
                                     <div class="row">
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
-                                                <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente aeroclube"/>
+                                                <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente el locações"/>
                                             </p>
                                         </div>
                                         <div class="col-12 text-center">
