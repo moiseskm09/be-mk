@@ -447,7 +447,7 @@
                                                             <h5 class="mt-2 titulo-card-contato">Telefone</h5>
                                                             <p class="texto-card-contato">
                                                                 <a target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..." style="text-decoration: none;"><i class="fa-brands fa-whatsapp text-success"></i> (11) 9 6303-3778</a>
-                                                                <br><a href="tel:11963033778" style="text-decoration: none;">(11) 9 7585-8766</a></p>
+                                                                <br><a href="tel:11963033778" style="text-decoration: none;"><i class="fa-solid fa-mobile-screen-button text-primary"></i> (11) 9 7585-8766</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -464,7 +464,7 @@
                                                         </div>
                                                         <div class="col-9">
                                                             <h5 class="mt-2 titulo-card-contato">E-mail</h5>
-                                                            <p class="texto-card-contato"><a href="mailto:contato@be-mk.com" style="text-decoration: none;">contato@be-mk.com</a><br><a href="mailto:moises@be-mk.com" style="text-decoration: none;">moises@be-mk.com</a></p>
+                                                            <p class="texto-card-contato"><a href="mailto:contato@be-mk.com" style="text-decoration: none;"><i class="fa-solid fa-envelope-open-text text-warning"></i> contato@be-mk.com</a><br><a href="mailto:moises@be-mk.com" style="text-decoration: none;"><i class="fa-solid fa-envelope-open-text text-primary"></i> moises@be-mk.com</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -543,6 +543,7 @@
                             <h6>Redes Sociais</h6>
                             <a class="redesocial" target="_blanc" href="https://www.facebook.com/beMKoficial"><i class="fa-brands fa-facebook"></i></a>
                             <a class="redesocial" target="_blanc" href="https://www.instagram.com/bemksolucoes/"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="redesocial" target="_blanc" href="https://www.linkedin.com/company/bemk"><i class="fa-brands fa-linkedin"></i></a>
                             <a class="redesocial" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..."><i class="fa-brands fa-whatsapp"></i></a>
                         </div>
                         <!-- Copyright -->
