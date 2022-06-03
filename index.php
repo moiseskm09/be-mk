@@ -7,18 +7,20 @@
         <link rel="shortcut icon" href="includes/imagens/favicon.webp" type="image/x-icon">
         <meta name="author" content="beMK- https://be-mk.com" />
         <meta name="keywords" content="sites, desenvolvimento de sites, criação de sites, empresas que criam sites, sites em sp, criar site em guarulhos, criar site em mairipora, mairipora,brasil, loja virtual, loja onile, logotipo, bemk, BEMK, bemk solucoes, bemk tecnologia" />
-        <meta name="description" content="Temos como principais diferenciais a inovação, agilidade e a busca pela perfeição. Com soluções inteligentes, desenvolvidas de forma personalizada, agregamos valor no atendimento de cada cliente. A nossa equipe está focada em soluções e diferenciais para assegurar a vantagem competitiva dos nossos clientes. Além do excelente atendimento e relacionamento comercial, temos total transparência e ética nas nossas ações." />
+        <meta name="description" content="Inovação, agilidade e a busca pela perfeição. Soluções inteligentes, desenvolvidas de forma personalizada para a criação do seu site." />
         <!--analitics -->
         <meta name="adopt-website-id" content="1e01e3c5-50ac-4a16-8b3d-c81a85bd4e43" />
           <script src="//tag.goadopt.io/injector.js?website_code=1e01e3c5-50ac-4a16-8b3d-c81a85bd4e43" class="adopt-injector"></script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9NRT3W2G"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125575308-7">
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-LC9NRT3W2G');
+  gtag('config', 'UA-125575308-7');
 </script>
         <!-- analitics -->
         <!-- Bootstrap CSS -->
@@ -27,7 +29,7 @@
         <script src="includes/js/jquery.js"></script>
         <link rel="stylesheet" href="includes/css/menu.css">
         <link rel="stylesheet" href="includes/css/estilo.min.css">
-        <title>beMK</title>
+        <title>beMK - Criação de sites e aplicativos</title>
 
     </head>
     <body id="inicio">
@@ -308,73 +310,73 @@
                     </div>
                     <div class="row mt-5">
                         <div class="col-md-4 col-lg-4 col-12">
+                            <a href="https://aeroclubededourados.com.br" target="_blank" class="link_portifolio">
                             <div class="card card-portfolio">
                                 <div class="card-body p-0">
                                     <div class="row">
+                                        <div class="col-12 text-center">
+                                            <h5 class="mt-2 titulo-card-portfolio">AEROCLUBE DE DOURADOS</h5>
+                                        </div>
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/aeroclube.webp" width="100%" height="200" alt="cliente aeroclube"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">AEROCLUBE DE DOURADOS</h5>
-
-                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
+                            <a href="https://silasfeitosa.com" target="_blank" class="link_portifolio">
                             <div class="card card-portfolio">
                                 <div class="card-body p-0">
                                     <div class="row">
+                                        <div class="col-12 text-center">
+                                            <h5 class="mt-2 titulo-card-portfolio">SILAS FEITOSA</h5>
+                                        </div>
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/silasfeitosa.webp" width="100%" height="200" alt="cliente silas feitosa"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">SILAS FEITOSA</h5>
-
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
+                            <a href="https://agricolalucas.com.br" target="_blank" class="link_portifolio">
                             <div class="card card-portfolio">
                                 <div class="card-body p-0">
                                     <div class="row">
+                                        <div class="col-12 text-center">                                           
+                                            <h5 class="mt-2 titulo-card-portfolio">AGRÍCOLA LUCAS</h5>
+                                        </div>
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/agricolalucas.webp" width="100%" height="200" alt="cliente agricola lucas"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">AGRÍCOLA LUCAS</h5>
-
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
+                        </a>
                         </div>
                         <div class="col-md-4 col-lg-4 col-12">
                             <div class="card card-portfolio">
                                 <div class="card-body p-0">
                                     <div class="row">
+                                        <div class="col-12 text-center">
+                                            <h5 class="mt-2 titulo-card-portfolio">PINK'S HAIR COSMÉTICOS</h5>
+                                        </div>
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/pinkshaircosmeticos.webp" width="100%" height="200" alt="cliente pinks hair cosmeticos"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">PINK'S HAIR COSMÉTICOS</h5>
-
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -383,16 +385,15 @@
                             <div class="card card-portfolio">
                                 <div class="card-body p-0">
                                     <div class="row">
+                                        <div class="col-12 text-center">
+                                            <h5 class="mt-2 titulo-card-portfolio">JC NEW HOME</h5>
+                                        </div>
                                         <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/jcnewhome.webp" width="100%" height="200" alt="cliente jc new home"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">JC NEW HOME</h5>
-
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -402,15 +403,14 @@
                                 <div class="card-body p-0">
                                     <div class="row">
                                         <div class="col-12 text-center">
+                                            <h5 class="mt-2 titulo-card-portfolio">E&L LOCAÇÕES</h5>
+                                        </div>
+                                        <div class="col-12 text-center">
                                             <p class="icone_portfolio text-center p-0">
                                                 <img src="includes/imagens/portfolio/ellocacoes.webp" width="100%" height="200" alt="cliente el locações"/>
                                             </p>
                                         </div>
-                                        <div class="col-12 text-center">
-                                            <br>
-                                            <h5 class="mt-2 titulo-card-portfolio">E&L LOCAÇÕES</h5>
-
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -420,6 +420,32 @@
                 <div>
                     </section>
                     <!-- portfólio -->
+                    <!-- redes sociais -->
+        <section id="servicos">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-12 espacamento">
+                        <h6 class="titulo_menu">REDES SOCIAIS</h6>
+                        <blockquote class=" blockquote mb-0">
+                            <footer class="blockquote-footer subtitulo_menu">FIQUE POR DENTRO</footer>
+                        </blockquote>
+
+                    </div>
+                </div>
+            </div>
+            <div class="container mt-5">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbeMKoficial%2Fposts%2F500149988388276&width=400&show_text=false&height=761&appId" width="100%" height="625" style="border:none;overflow:hidden" scrolling="" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" data-show-text="false"></iframe>
+                    </div>
+                  
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbeMKoficial%2Fposts%2F501355254934416&show_text=true&width=400" width="100%" height="712" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- redes sociais -->
                     <!-- contato -->
                     <section id="contato">
                         <div class="container">
@@ -542,7 +568,7 @@
                         <div class="text-center">
                             <h6>Redes Sociais</h6>
                             <a class="redesocial" target="_blanc" href="https://www.facebook.com/beMKoficial"><i class="fa-brands fa-facebook"></i></a>
-                            <a class="redesocial" target="_blanc" href="https://www.instagram.com/bemksolucoes/"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="redesocial" target="_blanc" href="https://www.instagram.com/bemkoficial/"><i class="fa-brands fa-instagram"></i></a>
                             <a class="redesocial" target="_blanc" href="https://www.linkedin.com/company/bemk"><i class="fa-brands fa-linkedin"></i></a>
                             <a class="redesocial" target="_blanc" href="https://api.whatsapp.com/send?phone=5511963033778&text=Ol%C3%A1%20beMK!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20..."><i class="fa-brands fa-whatsapp"></i></a>
                         </div>

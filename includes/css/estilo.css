@@ -15,8 +15,9 @@ background-position:100% 80%;
 background-image: url("../imagens/banner_principal.webp");
 background-repeat: no-repeat;
 }
+
 @media only screen and (max-width: 768px){
-               .banner_principal{
+               .banner_principal{              
                  height: 100%;
 background-size: cover;
 background-position:10% 20%;
@@ -26,6 +27,7 @@ background-color: #f7f7f7;
 
             }
             }
+            
 .titulo{
    margin-top: 150px;
    font-size: 60px;
@@ -242,6 +244,7 @@ background-repeat: no-repeat;
     border-radius: 15px;
     margin-bottom: 30px;
     border-bottom: 2px solid #F7AF24;
+    border-top: 2px solid #F7AF24;
 }
 @media only screen and (max-width: 768px){
 .card-portfolio{
@@ -252,15 +255,23 @@ background-repeat: no-repeat;
     box-shadow: 0 0 0 0;
     background-color: transparent;
     border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
 }
 .icone_portfolio:hover{
-                -webkit-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
         -ms-transform: scale(1.1);
         transform: scale(1.1);
         transition: 2s;
         max-width: 100%;
             }
-            
+.link_portifolio{
+text-decoration: none;
+color:#164259;
+} 
+.link_portifolio:hover{
+text-decoration: none;
+color:#F7AF24;
+} 
 .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
     margin-top: 40px;
     position: absolute;
