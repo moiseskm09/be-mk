@@ -1,10 +1,9 @@
-
-# CONFIGURAR UTILIZAÇÃO DO HTTPS
+# CONFIGURAR UTILIZA��O DO HTTPS
 #RewriteEngine On
 #RewriteCond %{SERVER_PORT} 80
 #RewriteRule ^(.*)$ https://be-mk.com/$1 [R,L]
 
-# COMPRESSÃO GZIP
+# COMPRESS�O GZIP
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/xml
@@ -33,7 +32,7 @@ SetEnvIfNoCase Request_URI .(?:gif|jpe?g|png)$ no-gzip dont-vary
 </IfModule>
 
 
-#Força a utilizar Cache-Control e Expires header
+#For�a a utilizar Cache-Control e Expires header
 <IfModule mod_headers.c>
 Header unset ETag
 </IfModule>
@@ -75,10 +74,17 @@ ExpiresByType text/css "access plus 1 year"
 ExpiresByType application/javascript "access plus 1 year"
 ExpiresByType application/x-javascript "access plus 1 year"
 </IfModule>
-#Força o IE a sempre carregar utilizando a última versão disponível
+#For�a o IE a sempre carregar utilizando a �ltima vers�o dispon�vel
 <IfModule mod_headers.c>
 Header set X-UA-Compatible "IE=Edge,chrome=1"
 <FilesMatch "\.(js|css|gif|png|jpeg|pdf|xml|oga|ogg|m4a|ogv|mp4|m4v|webm|svg|svgz|eot|ttf|otf|woff|ico|webp|appcache|manifest|htc|crx|oex|xpi|safariextz|vcf)$" >
 Header unset X-UA-Compatible
 </FilesMatch>
 </IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+#<IfModule mime_module>
+ # AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+#</IfModule>
+# php -- END cPanel-generated handler, do not edit
